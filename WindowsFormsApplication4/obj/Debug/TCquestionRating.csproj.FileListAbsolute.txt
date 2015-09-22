@@ -1,0 +1,41 @@
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Newtonsoft.Json.dll
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Newtonsoft.Json.xml
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\TCquestionRating.csprojResolveAssemblyReference.cache
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\TCquestionRating.csproj.GenerateResource.Cache
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\val\documents\visual studio 2012\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\obj\Debug\TCquestionRating.csprojResolveAssemblyReference.cache
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy\WindowsFormsApplication4\obj\Debug\TCquestionRating.csproj.GenerateResource.Cache
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\TCquestionRating.csprojResolveAssemblyReference.cache
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\TCquestionRating.csproj.GenerateResource.Cache
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\bin\Debug\TriviaCrack.exe.config
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\bin\Debug\TriviaCrack.exe.manifest
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\bin\Debug\TriviaCrack.application
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\bin\Debug\TriviaCrack.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\bin\Debug\TriviaCrack.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\TriviaCrack.Properties.Resources.resources
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\TriviaCrack.TrustInfo.xml
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\TriviaCrack.exe.manifest
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\TriviaCrack.application
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\TriviaCrack.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating - Copy - Copy\WindowsFormsApplication4\obj\Debug\TriviaCrack.pdb
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating-Public\WindowsFormsApplication4\bin\Debug\TriviaCrack.exe.config
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating-Public\WindowsFormsApplication4\obj\Debug\TriviaCrack.exe
+C:\Users\Val\Documents\Visual Studio 2012\Projects\TCquestionRating-Public\WindowsFormsApplication4\obj\Debug\TriviaCrack.pdb
